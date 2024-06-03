@@ -2,13 +2,14 @@
 
 ![what my girlfriend thinks](https://i.imgur.com/4po9J7O.jpg)
 
-I've been a graphic designer for the last 10 years and I am currently learning how to code 🎓! I enjoy using creative solutions to solve real-life problems 🧠, I grew up playing video games 🎮 and I'm a also moderator for a discord gaming server. When I'm not designing or learning code, I also enjoy karoke 🎵 and fresh seafood 🦐🦀🦞!
+I've been a graphic designer for the last 10 years and I am currently learning how to code🎓! I enjoy using creative solutions to solve real-life problems 🧠, I grew up playing video games 🎮 and I'm a also moderator for a discord gaming server. When I'm not designing or learning to code, I also enjoy karoke 🎵, camping 🏕️ and fresh seafood 🦐🦀🦞!
 #
 #### 🌱 I am currently learning
 ![Static Badge](https://img.shields.io/badge/HTML-%23161b22?style=for-the-badge&logo=html5&logoColor=%23E34F26)
 ![Static Badge](https://img.shields.io/badge/CSS-%23161b22?style=for-the-badge&logo=css3&logoColor=%231572B6)
 ![Static Badge](https://img.shields.io/badge/Javascript-%23161b22?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Static Badge](https://img.shields.io/badge/React-%23161b22?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Static Badge](https://img.shields.io/badge/On-Scrimba-%230d1117?style=for-the-badge&logoColor=white&labelColor=%23665282&color=%23161b22)
 #
 #### 🤹🏻 My Skillset
 ![Static Badge](https://img.shields.io/badge/Adobe%20Illustrator-%23161b22?style=for-the-badge&logo=adobeillustrator&logoColor=%23FF9A00)
